@@ -529,3 +529,11 @@ FROM medicine_details
 
 
 
+
+
+
+
+
+
+
+
